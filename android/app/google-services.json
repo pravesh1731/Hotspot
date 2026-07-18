@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "387881965254",
+    "project_id": "hotspot-54ded",
+    "storage_bucket": "hotspot-54ded.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387881965254:android:66694ab77253de5f73e9c7",
+        "android_client_info": {
+          "package_name": "com.example.hotspot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387881965254-rtpj7io6e7ee1fn4nd3sdqi2risvd5ok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hotspot",
+            "certificate_hash": "94eb61fcf3b54289bcb86500112f3c53408feaa7"
+          }
+        },
+        {
+          "client_id": "387881965254-jhelmshl8g2eto74fujcls2s3m9c874j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ziCVWHMjtig2C1mGsLznmYaDzC1TZFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387881965254-jhelmshl8g2eto74fujcls2s3m9c874j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "387881965254-u2dlvlu2rqis11a6vm0oeeqgfetlcqig.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hotspot"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387881965254:android:e52f507b9137666f73e9c7",
+        "android_client_info": {
+          "package_name": "com.example.hotspot.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387881965254-epvkdscb9c43mci43m4g3qk6qpejhrtf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hotspot.admin",
+            "certificate_hash": "94eb61fcf3b54289bcb86500112f3c53408feaa7"
+          }
+        },
+        {
+          "client_id": "387881965254-jhelmshl8g2eto74fujcls2s3m9c874j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ziCVWHMjtig2C1mGsLznmYaDzC1TZFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387881965254-jhelmshl8g2eto74fujcls2s3m9c874j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "387881965254-u2dlvlu2rqis11a6vm0oeeqgfetlcqig.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hotspot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
